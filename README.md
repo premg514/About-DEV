@@ -36,7 +36,7 @@ A secure bank account management system with **role-based authentication** for u
 ---
 
 ## 📫 Connect with Me  
-- 💼 LinkedIn(https://www.linkedin.com/in/premgunduboina/))  
+- 💼 LinkedIn: https://www.linkedin.com/in/premgunduboina/
 - 📩 Email: gunduboinaprem@gmail.com
 
 💡 Always open to **collaborations and new opportunities**. Let's build something amazing together! 🚀  
