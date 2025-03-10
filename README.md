@@ -1,42 +1,22 @@
-# 👋 Hi, I'm Prem!
+<h1 align="center">Hi 👋, I'm Prem Gunduboina</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-🚀 Passionate Full-Stack Developer | JavaScript | React | Node.js | Python | MongoDB  
+- 🔭 I’m currently working on [Custom E-commerce application](under progress)
 
-I'm an enthusiastic and self-motivated developer, eager to contribute my skills to real-world projects. I love building scalable web applications, solving coding challenges, and continuously learning new technologies.  
+- 🌱 I’m currently learning **Next.js**
 
-## 🔥 About Me  
-- 💻 Proficient in **ReactJS, Node.js, Express.js, MongoDB, and Python**  
-- 🎨 Experience in **Tailwind CSS, Styled-Components, and Responsive Web Design**  
-- 🛠️ Worked on **full-stack projects, authentication, and API integrations**  
-- 🌱 Currently exploring **AI/ML and advanced backend optimizations**  
-- 🎯 Looking for opportunities to **collaborate on open-source projects & internships**  
+- 👨‍💻 All of my projects are available at [https://github.com/premg514](https://github.com/premg514)
 
----
+- 💬 Ask me about **react, node, express, mondoDB**
 
-## 🏆 Featured Projects  
-### 🤖 [AI-Assistance]([https://www.nxtwatchprem.com](https://ai-assistance-theta.vercel.app/))  
-• Enhancing the UI/UX of Aptitude Guru’s EdTech platform, improving user experience and engagement.
-• Developing and optimizing frontend components using React.js, ensuring a responsive and intuitive interface.
-• Improving platform functionality and performance, implementing new features and refining existing ones for better usability.
-• Collaborating with the team to integrate backend APIs, ensuring seamless data flow and application efficiency.
-• Conducting bug fixes and optimizations, enhancing the overall reliability and speed of the platform.
- 🛠 **Tech Stack**: React.js, Node.js, Express.js, MongoDB, REST API, UI/UX Optimization.
+- 📫 How to reach me **https://www.linkedin.com/in/premgunduboina/**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZEGAoXgTAn9eW-oCE5VtwoJ9N1R8avBW/view?usp=sharing](https://drive.google.com/file/d/1ZEGAoXgTAn9eW-oCE5VtwoJ9N1R8avBW/view?usp=sharing)
 
-### 🎬 [NxtWatch](https://www.nxtwotchprem.com)  
-A YouTube-inspired video platform with dark mode, authentication, and personalized recommendations.  
-🛠 **Tech Stack**: React, styled-components, JWT
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/premgunduboina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/premgunduboina/" height="30" width="40" /></a>
+</p>
 
-### 🏦 User Bank Info Management  
-A secure bank account management system with **role-based authentication** for users and admins.  
-🛠 **Tech Stack**: React, Node.js, Express, MongoDB, JWT  
-
-
-
----
-
-## 📫 Connect with Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/premgunduboina/
-- 📩 Email: gunduboinaprem@gmail.com
-
-💡 Always open to **collaborations and new opportunities**. Let's build something amazing together! 🚀  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
